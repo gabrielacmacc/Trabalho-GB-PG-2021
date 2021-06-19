@@ -12,4 +12,4 @@ Código base utilizado para o trabalho foi o código "Framework-PG" adaptado por
 - Na barra superior do Visual Studio, selecionar "Depurador Local do Windows".
 
 ## Conteúdo do trabalho:
-O objetivo deste trabalho foi de implementar um aplicativo simples para criar efeitos em imagens utilizando os conceitos vistos em aula de processamento de imagens. Quanto ao funcionamento, é permitido ao usuário escolher a foto para carregar (via console) e realizar dois tipos de operações: colar stickers (arrastando com o mouse) e aplicar filtros (clicando com o botão esquerdo do mouse).
+O objetivo deste trabalho foi de implementar um aplicativo simples para criar efeitos em imagens utilizando os conceitos vistos em aula de processamento de imagens. Quanto ao funcionamento, é permitido ao usuário escolher a foto para carregar (escrevendo via console) desde que ela esteja dentro da pasta nomeada 'textures', podendo realizar dois tipos de operações: colar stickers (apertando o botão esquerdo do mouse e arrastando) e aplicar filtros (somente clicando com o botão esquerdo do mouse).
